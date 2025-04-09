@@ -1,4 +1,4 @@
-# youtube_video_downloader
+# VidMatex - YouTube Video Downloader
 
 A new Flutter project.
 
